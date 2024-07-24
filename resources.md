@@ -7,4 +7,4 @@
 
 ## Tutorials
 
-- [OS Developer playlist](https://www.youtube.com/playlist?list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ)
+- [Writing an OS in Rust](https://os.phil-opp.com/)
