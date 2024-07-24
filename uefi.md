@@ -1,4 +1,4 @@
-# Bootable media
+# UEFI
 
 ## What is an UEFI bootable USB flash drive
 
