@@ -1,5 +1,7 @@
 # UEFI
 
+UEFI supports primarily the GPT partition scheme.
+
 ## What is an UEFI bootable USB flash drive
 
 [Answer](https://superuser.com/a/1128677)
