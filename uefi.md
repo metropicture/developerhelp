@@ -1,6 +1,6 @@
 # UEFI
 
-Wikipedia
+[Wikipedia](https://pt.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
 
 > O Unified Extensible Firmware Interface (UEFI), em português Interface Unificada de Firmware Extensível, é uma especificação que define uma interface de software entre o sistema operacional e o firmware da plataforma.
 
