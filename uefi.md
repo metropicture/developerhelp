@@ -1,6 +1,10 @@
 # UEFI
 
-UEFI supports primarily the GPT partition scheme.
+Wikipedia
+
+> O Unified Extensible Firmware Interface (UEFI), em português Interface Unificada de Firmware Extensível, é uma especificação que define uma interface de software entre o sistema operacional e o firmware da plataforma.
+
+UEFI suporta primariamente o esquema de partição GPT.
 
 ## What is an UEFI bootable USB flash drive
 
